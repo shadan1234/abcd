@@ -1,0 +1,30 @@
+1.  Git is a Distributed Version Control System which helps in faster software development and helps
+    in keeping track of the changes made in the file (any change like creation,modification,deletion
+    is considered as change) and helps in keeping our source code secure.
+    On the other hand Github is a code hosting platform which uses tools which involves git
+
+
+2.  1- git add <file name> -Adds any file from untraced to staging area.
+    2- git init            -Creates an empty git repository in the folder or directory in which you 
+                            have opened gitbash 
+    3- git config --global -it defines the name of the user to be used for all the commits for the current
+       user.name<name>      repository.
+    4- git config --global -it defines the email of the user to be used for all the commites for the  
+       user.email<email>    current repository.
+    5- git log             -It lists all the commits made by the programmer in the current repo.
+    6- git log -p-2        -It lists the last two commits made by the programmer in the current repo.
+  
+
+ 
+3.  pull request is a feature by which any team member can request the project manager to pull a branch from
+    your repository to their repository but pull request allows other features as well because other team
+    members can contribute and commit if the branch lacks anything 
+    
+
+    basically a pull request is just a request to merge the branch made by the team member to the main branch
+    the main branch is not affected if  the side branches does not function properly.
+   
+    EXPLANTATION FOR MAKING A PULL REQUEST
+
+    for pulling request go to your github and then open the required repository and on then from the list select
+    pull request and you will see which branches are ready to be merged to the main branch .
